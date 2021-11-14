@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First Coursera Project</string>
+    <string name="textobienvenida">Welcome</string>
+    <string name="textoingresar">Enter</string>
+</resources>
